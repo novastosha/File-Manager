@@ -1,0 +1,16 @@
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/bin/Debug/net5.0/FileManagerC#
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/bin/Debug/net5.0/FileManagerC#.deps.json
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/bin/Debug/net5.0/FileManagerC#.runtimeconfig.json
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/bin/Debug/net5.0/FileManagerC#.runtimeconfig.dev.json
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/bin/Debug/net5.0/FileManagerC#.dll
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/bin/Debug/net5.0/ref/FileManagerC#.dll
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/bin/Debug/net5.0/FileManagerC#.pdb
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/obj/Debug/net5.0/FileManagerC#.csproj.AssemblyReference.cache
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/obj/Debug/net5.0/FileManagerC#.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/obj/Debug/net5.0/FileManagerC#.AssemblyInfoInputs.cache
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/obj/Debug/net5.0/FileManagerC#.AssemblyInfo.cs
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/obj/Debug/net5.0/FileManagerC#.csproj.CoreCompileInputs.cache
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/obj/Debug/net5.0/FileManagerC#.dll
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/obj/Debug/net5.0/ref/FileManagerC#.dll
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/obj/Debug/net5.0/FileManagerC#.pdb
+/mnt/0E9E8E9B9E8E7B4B/FileManagerC#/obj/Debug/net5.0/FileManagerC#.genruntimeconfig.cache
