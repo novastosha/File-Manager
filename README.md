@@ -1,0 +1,3 @@
+## About the project
+
+This project is just for fun, it is a part of my journey of learing how to properly code C#, it might be useful who knows...
